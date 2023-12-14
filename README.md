@@ -6,6 +6,8 @@ Welcome to my first Vue.js application! This project represents my journey in le
 
 In this project, I explore the fundamentals of Vue.js and build a simple yet engaging application. This repository serves as a documentation of my learning process, including code examples, challenges faced, and solutions discovered.
 
+![Application Screenshot](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1702557296/vue%20js%20first%20app/screencapture-localhost-5173-2023-12-14-13_33_19_eupbp7.png)
+
 ## Features
 
 - Basic Vue.js components and data binding
